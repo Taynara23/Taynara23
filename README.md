@@ -1,6 +1,6 @@
 ## Hello, Devs 👾
 
-Sou a Taynara, tenho 24 anos, moro em Poá/SP e a cada dia fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira, e quanto mais eu aprendo e passo por uns desafios, mais eu amo tudo isso e acredito que escolhi a área certa!  ❤
+Tenho 24 anos, moro em Poá/SP e a cada dia fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira, e quanto mais eu aprendo e passo por uns desafios, mais eu amo tudo isso e acredito que escolhi a área certa!  ❤
 </br>
 </br>
 
