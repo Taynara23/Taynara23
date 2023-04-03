@@ -1,6 +1,7 @@
-## Hello, Devs 👾
+## Hello, world 👾
 
-Tenho 24 anos, moro em Poá/SP e a cada dia fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira, e quanto mais passo por desafios, mais eu aprendo e acredito que escolhi a área certa!  👩🏾‍💻❤️😍
+Sou a Tay, tenho 24 anos e moro em Poá/SP.
+A cada dia que se passa, fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira. E quanto mais passo por desafios, mais eu aprendo e acredito que escolhi a área certa!  👩🏾‍💻❤️😍
 </br>
 </br>
 
@@ -13,8 +14,8 @@ Tenho 24 anos, moro em Poá/SP e a cada dia fico mais apaixonada pela tecnologia
 
 <div display="inline-block">
  <p align="left">👩🏾‍💻 Desenvolvedora em formação pela <a href="https://cubos.academy/">Cubos Academy</a>;</p>
- <p align="left">📚 Tenho estudado JavaScript e iniciei meus estudos em front-end;</p>
- <p align="left">☕🎮 Sou uma desenvolvedora diferenciada já que não bebo café e adoro games (mas sou um desastre).</p>
+ <p align="left">📚 Tenho estudado JavaScript e iniciei o estudo sobre o React ;</p>
+ <p align="left">☕🎮 Sou uma desenvolvedora diferenciada já que não bebo café e adoro games (mas sou um desastre na maioria rs).</p>
 </div>
 
 </br>
@@ -38,7 +39,7 @@ Tenho 24 anos, moro em Poá/SP e a cada dia fico mais apaixonada pela tecnologia
 </br>
 </br>
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/taynarapereira23/) ou pelo [Instagram](https://www.instagram.com/_ifro/) (as vezes eu demoro a responder, mas sou gente boa viu 😁).
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/taynarapereira23/)(sou gente boa viu 😁).
 
 </br>
 
