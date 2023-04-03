@@ -1,7 +1,7 @@
 ## Hello, world 👾
 
-<p align="left">Sou a Tay, tenho 24 anos e moro em Poá/SP.</p>
-<p align="left">A cada dia que se passa, fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira. E quanto mais passo por desafios, mais eu aprendo e acredito que escolhi a área certa!  👩🏾‍💻❤️😍</p>
+<p align="left">Sou a Tay, tenho 24 anos e moro em Poá/SP.
+A cada dia que se passa, fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira. E quanto mais passo por desafios, mais eu aprendo e acredito que escolhi a área certa!  👩🏾‍💻❤️😍</p>
 </br>
 </br>
 
