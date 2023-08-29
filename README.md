@@ -1,23 +1,20 @@
 ## Hello, world 👾
 
-<p align="left">Sou a Tay, tenho 24 anos e moro em Poá/SP.
-A cada dia que passa, fico mais apaixonada pela tecnologia e por seu potencial de avanço! Sou iniciante no universo da programação, pois estou passando por uma transição de carreira. E quanto mais passo por desafios, mais eu aprendo e acredito que escolhi a área certa!  👩🏾‍💻❤️😍</p>
+ <div display="inline-block">
+ <p align="left">👩🏾‍💻 Sou a Tay, Desenvolvedora em formação pela <a href="https://cubos.academy/">Cubos Academy</a>;</p>
+ <p align="left">📚 Tenho estudado JavaScript e React ;</p>
+ <p align="left">☕🎮 Sou uma desenvolvedora diferenciada já que não bebo café e sou péssima nos games 😅.</p>
+</div>
+</br>
 </br>
 </br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/117486346/223865390-e5d28f23-0b7b-4034-8936-59a49d99b237.gif" width="350">
+  
 </p>
 
 </br>
-</br>
-
-<div display="inline-block">
- <p align="left">👩🏾‍💻 Desenvolvedora em formação pela <a href="https://cubos.academy/">Cubos Academy</a>;</p>
- <p align="left">📚 Tenho estudado JavaScript e iniciei o estudo sobre o React ;</p>
- <p align="left">☕🎮 Sou uma desenvolvedora diferenciada já que não bebo café e adoro games (mas sou um desastre na maioria rs).</p>
-</div>
-
 </br>
 
 ### 🖥️ Tecnologias e Ferramentas: 
@@ -25,7 +22,6 @@ A cada dia que passa, fico mais apaixonada pela tecnologia e por seu potencial d
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = "NODEJS"/></code>
 
 </br>
@@ -39,7 +35,7 @@ A cada dia que passa, fico mais apaixonada pela tecnologia e por seu potencial d
 </br>
 </br>
 
-📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/taynarapereira23/)(sou gente boa viu 😁).
+📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/taynarapereira23/) (sou gente boa viu 😁).
 
 </br>
 
