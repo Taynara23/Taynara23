@@ -26,12 +26,10 @@
 
 </br>
 </br>
-</br>
 
 ### 📊 GitHub:
 ![Taynara23 Status](https://github-readme-stats.vercel.app/api?username=Taynara23&show_icons=true&theme=radical)
 
-</br>
 </br>
 </br>
 
